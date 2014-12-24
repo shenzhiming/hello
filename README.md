@@ -1,6 +1,6 @@
 hello
 =====
 
-eshezhi's first repository
+Jimmy's code for studying or testing.
 
 edited
